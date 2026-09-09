@@ -20,4 +20,4 @@ Machine learning project for classifying skin lesion images as **benign or malig
 
 ## Notebook
 
-[Open the Jupyter Notebook]([./skin_cancer_diagnostic.ipynb](https://colab.research.google.com/gist/RIHEMbacha/f6d2fdd139b75acfd41a5a1e77d13b8e/skin-cancer-diagnostic.ipynb))
+[Open the Jupyter Notebook]([https://colab.research.google.com/gist/RIHEMbacha/f6d2fdd139b75acfd41a5a1e77d13b8e/skin-cancer-diagnostic.ipynb])
